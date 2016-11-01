@@ -7,7 +7,7 @@ Port based local host installer
 - Apache HTTP server
   - with a http.conf `IncludeOptional /pathtogitrepo/http-conf.d/*.conf` line
 - A tar.bz2 magento 1.X archive
-- An RHEL based linux distro (Fedora, CentoOS/RHEL 7) (debian support patch welcome)
+- An RHEL based linux distro (Fedora, CentoOS/RHEL 7) (**debian support patch welcome**)
 - Optional: A tar.bz2 magento-sample-data 1.X archive
 
 # Features
@@ -21,3 +21,6 @@ This is for development purposes only, do not use in production.
 # How to use
 - run with `./newlocalmage.sh`
 - thats it. The username is `admin` and the password is `password1`
+
+# License
+MIT https://opensource.org/licenses/MIT
