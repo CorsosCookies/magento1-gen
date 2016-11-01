@@ -1,0 +1,4 @@
+/mage-*
+/magento-1.9.*
+/magento-sample-data-1.9.*
+/http-conf.d/mage-*.conf
