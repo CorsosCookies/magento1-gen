@@ -23,4 +23,5 @@ This is for development purposes only, do not use in production.
 - thats it. The username is `admin` and the password is `password1`
 
 # License
-MIT https://opensource.org/licenses/MIT
+This project is licensed under the terms of the MIT license.
+https://opensource.org/licenses/MIT
