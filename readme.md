@@ -1,5 +1,7 @@
 
-# Port based local host installer
+#MagentoGen
+Port based local host installer
+
 **Prerequisites**
 - Password-less root@localhost mysql account
 - Apache with the web server
