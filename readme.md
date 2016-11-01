@@ -4,9 +4,10 @@ Port based local host installer
 
 **Prerequisites**
 - Password-less root@localhost mysql account
-- Apache with the web server
+- Apache HTTP server
   - with a http.conf `IncludeOptional /pathtogitrepo/http-conf.d/*.conf` line
 - A tar.bz2 magento 1.X archive
+- An RHEL based linux distro... (debian support patch welcome)
 - Optional: A tar.bz2 magento-sample-data 1.X archive
 
 # Features
